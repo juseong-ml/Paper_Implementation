@@ -20,7 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64bc2c89-1608-4f61-8b81-2ae6edf96578" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ResNet/BottleNeck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ResNet/block.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ResNet/resnet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResNet/BottleNeck.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
